@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepack": "echo foobar > test.txt"
+    "prepack": "git tag --list"
   },
   "author": "",
   "license": "ISC",
