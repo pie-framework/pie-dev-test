@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.3](https://github.com/pie-framework/pie-dev-test/compare/v0.0.2...v0.0.3) (2019-03-13)
+
+
+### Bug Fixes
+
+* add prepack ([845d54c](https://github.com/pie-framework/pie-dev-test/commit/845d54c))
+
+
+
+
+
 ## [0.0.2](https://github.com/pie-framework/pie-dev-test/compare/v0.0.1...v0.0.2) (2019-03-13)
 
 
